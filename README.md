@@ -1,154 +1,223 @@
-# 🌐 Personal Portfolio — Cao Thi Hà Trang
+# I'm Cao Thị Hà Trang
 
-> A personal portfolio website showcasing my academic projects, technical skills, and career interests in **Business Analysis, Data Analytics, and Software Testing**.
+### 🎓 Management Information Systems Student | 💼 Business Analysis | 📊 Data Analytics | 🧪 Software Testing
 
+I'm a Management Information Systems student at **Banking University of Ho Chi Minh City**, interested in the intersection of **business, technology, and data**.
+
+I enjoy turning business requirements and data into practical solutions through **system analysis, database management, data analysis, and software testing**.
+
+---
 <p align="center">
-  <a href="https://caothatrang.github.io/Portfolio-/">
-    <strong>🚀 View My Portfolio</strong>
-  </a>
+
+<a href="https://caothatrang.github.io/Portfolio-/">
+<img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-000000?style=for-the-badge" alt="View Portfolio"/>
+</a>
+
+
+<a href="mailto:caohatrang0069@gmail.com">
+<img src="https://img.shields.io/badge/📧_CONTACT_ME-EA4335?style=for-the-badge" alt="Contact Me"/>
+</a>
+
+
+<a href="https://github.com/CaoTHaTrang">
+<img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
 
-## 👩🏻‍💻 About
-
-Hi, I'm **Cao Thi Hà Trang**, a Management Information Systems student at **Banking University of Ho Chi Minh City**.
-
-I am interested in the intersection of **business, technology, and data**, with a career direction toward:
-
-* 💼 Business Analysis
-* 📊 Data Analytics
-* 🧪 Software Testing
-
-This portfolio presents selected academic and personal projects that reflect my experience in **system analysis, database management, SQL, data analysis, software testing, and project documentation**.
-
----
-
-## ✨ Portfolio Highlights
-
-* 🎓 Management Information Systems background
-* 💼 Business Analysis & System Analysis
-* 📊 SQL & Data Analytics
-* 🧪 Manual & API Testing
-* 🗄️ Database Management
-* 📋 Requirements & System Documentation
-* 💻 Academic Software Projects
-
----
-
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
 ### Programming & Data
 
-`Python` `SQL` `Java` `JavaScript`
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
 ### Database
 
-`MySQL` `SQL Server`
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ### Testing & API
 
-`Postman` `REST API` `JDBC`
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+</p>
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Eclipse` `Figma` `Excel`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## ✨ Featured Projects
 
 ### ✈️ Airline Booking System
 
-A Java-based airline booking management system designed to manage flights, passengers, and airline tickets.
+**Java-based airline booking management system** developed to manage flights, passengers, and airline ticket bookings through a console-based application.
 
-**Focus:**
+**🎯 Key Features**
 
-`Java` · `OOP` · `SQL Server` · `JDBC` · `DAO Pattern` · `Database Management`
+* Flight information management
+* Passenger management
+* Ticket booking & cancellation
+* Flight search by route and date
+* Passenger lookup by flight
+* Fully booked flight detection
+* Flights departing within the next 24 hours
+* Ticket sales statistics by route
 
----
+**🛠️ Technologies**
 
-### 🛒 Online Shopping System
+`Java` `OOP` `JDBC` `SQL Server` `DAO Pattern` `Eclipse`
 
-An academic web-based shopping system developed to support online product management and shopping operations.
+**🧩 My Focus**
 
-**Focus:**
+Database Management · System Development · SQL Querying · DAO Architecture · Business Logic
 
-`PHP` · `MySQL` · `Web Development` · `Database`
-
----
-
-### 📊 Data Analysis Projects
-
-Academic projects involving data preparation, SQL queries, analysis, and extracting meaningful insights from datasets.
-
-**Focus:**
-
-`SQL` · `Python` · `Excel` · `Data Analysis` · `Data Visualization`
-
----
-
-## 📂 Project Structure
-
-```text
-Portfolio-
-│
-├── images/
-│   └── background.jpg
-│
-├── index.html
-├── style.css
-└── README.md
-```
+<p>
+<a href="https://github.com/CaoTHaTrang/airline-booking-system">
+<img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Airline Booking System"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Getting Started
+### 🛒 CoopShop — E-Commerce & Convenience Store Management System
 
-### Run Locally
+A web-based **online convenience store management system** designed to support customer shopping workflows and administrative operations.
 
-Clone the repository:
+The system covers product browsing, shopping cart management, checkout, order tracking, product management, inventory, customer management, and order administration. It also integrates external services such as payment, shipping, and SMS OTP APIs.
 
-```bash
-git clone https://github.com/CaoTHaTrang/Portfolio-.git
-```
+**🎯 Key Features**
 
-Navigate to the project:
+* Customer registration & authentication
+* Product search and shopping cart
+* Checkout and payment workflow
+* Order tracking and cancellation
+* Product & inventory management
+* Customer management
+* Order management
+* Sales and operational monitoring
+* Integration with VNPay, MoMo and GHN
+* SMS OTP authentication
 
-```bash
-cd Portfolio-
-```
+**🧪 QA & Testing**
 
-Then open `index.html` in your browser.
+This project also involved a structured software testing process including:
 
-You can also use **Visual Studio Code + Live Server** for local development.
+* Test Plan creation
+* Test Case design and execution
+* Functional testing
+* Integration testing
+* System testing
+* User Acceptance Testing (UAT)
+* Defect reporting and tracking
+* Traceability Matrix
+* Test Summary Report
+
+The repository documents a testing workflow covering authentication, product search, orders, payments, shipping, and other core modules.
+
+**👩🏻‍💻 My Role**
+
+**Tester — Shipping Management**
+
+* Designed test cases for Shipping Management
+* Participated in test execution
+* Supported defect identification and reporting
+* Contributed to the overall QA documentation
+
+**🛠️ Technologies & Tools**
+
+`Laravel` `PHP` `MySQL` `Nginx` `Ubuntu Linux` `Figma` `Jira` `Git` `GitHub`
+
+**🧩 My Focus**
+
+Software Testing · Test Case Design · QA Documentation · System Analysis · Database · Business Process Understanding
+
+<p>
+<a href="https://github.com/CaoTHaTrang/coopshop-ecommerce">
+<img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CoopShop"/>
+</a>
+</p>
+
+
+## 🎓 Education
+
+**Banking University of Ho Chi Minh City**
+
+**Bachelor of Management Information Systems – Digital Transformation**
+
+📅 Expected Graduation: **May 2027**
 
 ---
 
-## 🌐 Live Website
+## 🌱 Currently Learning
 
-The portfolio is deployed using **GitHub Pages**.
-
-👉 **[View My Portfolio](https://caothatrang.github.io/Portfolio-/)**
+* Business Analysis & Requirements Engineering
+* Business Process Modeling
+* User Stories & Acceptance Criteria
+* UML & System Modeling
+* API Testing with Postman
+* SQL & Data Analytics
+* Software Testing & Quality Assurance
+* UI/UX Prototyping with Figma
 
 ---
 
-## 📬 Contact
+## 🌐 Explore My Portfolio
 
-**Cao Thi Hà Trang**
+Want to see my projects, skills, and profile in a visual format?
 
-🎓 Management Information Systems Student
-💼 Business Analysis · Data Analytics · Software Testing
+<p align="center">
 
-* 💻 GitHub: [@CaoTHaTrang](https://github.com/CaoTHaTrang)
-* 🌐 Portfolio: [View Website](https://caothatrang.github.io/Portfolio-/)
+<a href="https://caothatrang.github.io/Portfolio-/">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-6C63FF?style=for-the-badge" alt="Explore Portfolio"/>
+</a>
+
+</p>
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+
+<a href="mailto:caohatrang0069@gmail.com">
+<img src="https://img.shields.io/badge/Email-caothatrang0069%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CaoTHaTrang">
+<img src="https://img.shields.io/badge/GitHub-CaoTHaTrang-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://caothatrang.github.io/Portfolio-/">
+<img src="https://img.shields.io/badge/Portfolio-Website-6C63FF?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you find this project interesting, feel free to explore the repository!
+  <i>Thanks for visiting my GitHub! I'm always learning, building, and improving. 🚀</i>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my portfolio repository.</i>
+  ⭐ Feel free to explore my repositories and projects.
 </p>

@@ -1,6 +1,6 @@
 # I'm Cao Thị Hà Trang
 
-### 🎓 Management Information Systems Student | 💼 Business Analysis | 📊 Data Analytics | 🧪 Software Testing
+### 🎓 Management Information Systems Student 
 
 I'm a Management Information Systems student at **Banking University of Ho Chi Minh City**, interested in the intersection of **business, technology, and data**.
 

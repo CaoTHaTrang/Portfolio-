@@ -65,7 +65,7 @@ I enjoy turning business requirements and data into practical solutions through 
 
 ---
 
-## ✨ Featured Projects
+## 🎓 Academic Projects
 
 ### ✈️ Airline Booking System
 
@@ -102,57 +102,65 @@ Database Management · System Development · SQL Querying · DAO Architecture ·
 
 A web-based **online convenience store management system** designed to support customer shopping workflows and administrative operations.
 
-The system covers product browsing, shopping cart management, checkout, order tracking, product management, inventory, customer management, and order administration. It also integrates external services such as payment, shipping, and SMS OTP APIs.
+The project involved not only system development and testing, but also significant effort in **UI/UX design and interface prototyping using Figma**.
 
 **🎯 Key Features**
 
 * Customer registration & authentication
-* Product search and shopping cart
+* Product browsing and search
+* Shopping cart management
 * Checkout and payment workflow
 * Order tracking and cancellation
 * Product & inventory management
 * Customer management
 * Order management
-* Sales and operational monitoring
-* Integration with VNPay, MoMo and GHN
-* SMS OTP authentication
+* Integration with payment, shipping, and SMS OTP services
+
+**🎨 UI/UX Design**
+
+A significant part of the project focused on designing and refining the user interface and user experience.
+
+* Designed website interfaces and user flows using **Figma**
+* Created and refined page layouts and interaction flows
+* Designed interfaces for customer and management workflows
+* Collaborated with team members to align UI design with system requirements
+* Translated functional requirements into practical interface designs
 
 **🧪 QA & Testing**
 
-This project also involved a structured software testing process including:
+The project also involved a structured software testing process, including:
 
 * Test Plan creation
 * Test Case design and execution
-* Functional testing
-* Integration testing
-* System testing
+* Functional Testing
+* Integration Testing
+* System Testing
 * User Acceptance Testing (UAT)
 * Defect reporting and tracking
 * Traceability Matrix
 * Test Summary Report
 
-The repository documents a testing workflow covering authentication, product search, orders, payments, shipping, and other core modules.
-
 **👩🏻‍💻 My Role**
 
-**Tester — Shipping Management**
+**Tester & UI/UX Contributor**
 
-* Designed test cases for Shipping Management
-* Participated in test execution
-* Supported defect identification and reporting
-* Contributed to the overall QA documentation
+* Designed test cases for **Shipping Management**
+* Participated in test execution and defect reporting
+* Contributed to QA documentation
+* Participated in **UI/UX design and interface prototyping using Figma**
+* Worked with team members to refine interfaces based on system requirements
 
 **🛠️ Technologies & Tools**
 
-`Laravel` `PHP` `MySQL` `Nginx` `Ubuntu Linux` `Figma` `Jira` `Git` `GitHub`
+`Laravel` `PHP` `MySQL` `Figma` `Jira` `Git` `GitHub` `Nginx` `Ubuntu Linux`
 
-**🧩 My Focus**
+**🧩 Key Areas**
 
-Software Testing · Test Case Design · QA Documentation · System Analysis · Database · Business Process Understanding
+UI/UX Design · Software Testing · Test Case Design · QA Documentation · System Analysis · Database Management · Business Process Understanding
 
 <p>
 <a href="https://github.com/CaoTHaTrang/coopshop-ecommerce">
-<img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CoopShop"/>
+<img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CoopShop Repository"/>
 </a>
 </p>
 

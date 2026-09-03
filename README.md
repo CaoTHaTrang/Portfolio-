@@ -163,10 +163,6 @@ UI/UX Design · Software Testing · Test Case Design · QA Documentation · Syst
 <img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CoopShop Repository"/>
 </a>
 </p>
-<p>
-< a href="file:///D:/Download/coopshop-case-study.html#contribution">
-</a>
-</p>
 
 ## 🎓 Education
 
